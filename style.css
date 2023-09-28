@@ -218,4 +218,16 @@ footer {
   .phone-image-container {
     display: none;
   }
+
+  .get-app {
+    margin-bottom: 3rem;
+  }
+
+  .form-container form {
+    width: 100%;
+  }
+  .infos {
+    width: 100%;
+    font-size: 12px;
+  }
 }
